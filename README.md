@@ -1,2 +1,2 @@
 # phd2009
-opinion network
+Sznajd opinion model on adaptive network
